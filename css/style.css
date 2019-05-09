@@ -19,4 +19,6 @@ figcaption {
 
 .milk-text {
   font:bold;
+  color: white;
+  text-shadow: black;
 }
